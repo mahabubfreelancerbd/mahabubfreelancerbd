@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mahabubur Rahman</h1>
-<h3 align="center">A passionate MERN, WordPress developer from Bangladesh</h3>
+<h3 align="center">A passionate WordPress developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahabubfreelancerbd&label=Profile%20views&color=0e75b6&style=flat" alt="mahabubfreelancerbd" /> </p>
-Welcome to my GitHub profile. I am a Stack Developer. Knock me: m.facebook.com/masumitcenter
+Welcome to my GitHub profile. I'm WordPress Developer. Knock me: m.facebook.com/masumitcenter
 <p align="left">Skills: HTML / CSS / BOOTSTRAP/ TAILWIND / NODE.JS / Vue / JS</p>
-- 🌱 I’m currently learning **Laravel, Vue**
+- 🌱 I’m currently learning **Laravel, Vue, MERN Stack**
 
 - 👨‍💻 All of my projects are available at [http://mahabub.ml](http://mahabub.ml)
 - Netlify Portfolio: [https://quirky-mestorf-1440c8.netlify.app/](https://quirky-mestorf-1440c8.netlify.app/)
