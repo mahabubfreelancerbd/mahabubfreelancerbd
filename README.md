@@ -3,7 +3,8 @@
 
 - 🌱 I’m currently learning **Laravel, Vue**
 
-- 👨‍💻 All of my projects are available at [http://mahabub.ml](https://mahabub.ml)
+- 👨‍💻 All of my projects are available at [http://mahabub.ml](http://mahabub.ml)
+- Netlify: [https://quirky-mestorf-1440c8.netlify.app/](https://quirky-mestorf-1440c8.netlify.app/)
 
 - 📫 How to reach me **mahabubfreelancerbd@gmail.com**
 
